@@ -1,0 +1,3 @@
+#AUTHORS
+
+* Juan González Rosal
